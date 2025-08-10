@@ -27,44 +27,73 @@ This repository contains all my projects, notebooks, and assignments completed d
 IBM-Data-Science-Course/
 │
 ├── 01-What-is-Data-Science/
+│   ├── 01-module-1/  # Defining Data Science
+│   ├── 02-module-2/  # What Data Scientists Do
+│   └── 03-module-3/  # Data Science in Business
 │
 ├── 02-Tools-for-Data-Science/
-│   ├── 01-module-1/
-│   ├── 02-module-3/
-│   ├── 03-module-4/
-│   ├── 04-module-5/
-│   └── 05-module-6/
+│   ├── 01-module-1/  # Data Science Tools Overview
+│   ├── 02-module-2/  # Languages of Data Science
+│   ├── 03-module-3/  # Packages, APIs, Datasets and Models
+│   ├── 04-module-4/  # Jupyter Notebooks & JupyterLab
+│   ├── 05-module-5/  # RStudio & GitHub
+│   └── 06-module-6/  # Final Project - Create and Share Jupyter Notebook
 │
 ├── 03-Data-Science-Methodology/
-│   ├── 01-module-1/
-│   ├── 02-module-2/
-│   ├── 03-module-3/
-│   └── 04-module-4/
+│   ├── 01-module-1/  # From Problem to Approach
+│   ├── 02-module-2/  # From Requirements to Collection
+│   ├── 03-module-3/  # From Understanding to Preparation
+│   └── 04-module-4/  # From Modeling to Evaluation
 │
 ├── 04-Python-for-Data-Science-AI-&-Development/
-│   ├── 01-module-1/
-│   ├── 02-module-2/
-│   ├── 03-module-3/
-│   ├── 04-module-4/
-│   └── 05-module-5/
+│   ├── 01-module-1/  # Python Basics
+│   ├── 02-module-2/  # Python Data Structures
+│   ├── 03-module-3/  # Python Programming Fundamentals
+│   ├── 04-module-4/  # Working with Data in Python
+│   └── 05-module-5/  # APIs and Data Collection
 │
 ├── 05-Python-Project-for-Data-Science/
-│   └── 01-module-1/
+│   └── 01-module-1/  # Analyzing Stock Performance and Building a Dahsboard
 │
 ├── 06-Databases-and-SQL-for-Data-Science-with-Python/
-│   ├── 01-module-1/
-│   ├── 02-module-2/
-│   ├── 03-module-3/
-│   ├── 04-module-4/
-│   └── 05-module-5/
+│   ├── 01-module-1/  # Getting Started with SQL
+│   ├── 02-module-2/  # Introduction to Relational Databases and Tables
+│   ├── 03-module-3/  # Intermediate SQL
+│   ├── 04-module-4/  # Accessing Databases using Python
+│   └── 05-module-5/  # Course Assignment
 │
 ├── 07-Data-Analysis-with-Python/
-│   ├── 01-module-1/
-│   ├── 02-module-2/
-│   ├── 03-module-3/
-│   ├── 04-module-4/
-│   ├── 05-module-5/
-│   └── 06-module-6/
+│   ├── 01-module-1/  # Importing Datasets
+│   ├── 02-module-2/  # Data Wrangling
+│   ├── 03-module-3/  # Exploratory Data Analysis
+│   ├── 04-module-4/  # Model Development
+│   └── 05-module-5/  # Model Evaluation and Refinement
+│
+├── 08-Data-Visualization-with-Python/
+│   ├── 01-module-1/  # Introduction to Data Visualization Tools
+│   ├── 02-module-2/  # Basic and Specialized Visualization Tools
+│   ├── 03-module-3/  # Advanced Visualizations and Geospatial Data
+│   ├── 04-module-4/  # Creating Dashboards with Plotly and Dash
+│   └── 05-module-5/  # Final Project - US Domestic Airline Flights Dashboard
+│
+├── 09-Machine-Learning-with-Python/
+│   ├── 01-module-1/  # Introduction to Machine Learning
+│   ├── 02-module-2/  # Regression
+│   ├── 03-module-3/  # Classification
+│   ├── 04-module-4/  # Clustering
+│   ├── 05-module-5/  # Recommender Systems
+│   └── 06-module-6/  # Final Project - Best Classifier
+│
+├── 10-Applied-Data-Science-Capstone/
+│   ├── 01-module-1/  # Data Collection API
+│   ├── 02-module-2/  # Data Collection with Web Scraping
+│   ├── 03-module-3/  # Data Wrangling
+│   ├── 04-module-4/  # Exploratory Data Analysis with SQL
+│   ├── 05-module-5/  # Exploratory Data Analysis with Visualization
+│   ├── 06-module-6/  # Interactive Visual Analytics with Folium
+│   ├── 07-module-7/  # Interactive Dashboard with Plotly Dash
+│   ├── 08-module-8/  # Machine Learning Prediction
+│   └── 09-module-9/  # Final Presentation
 │
 ├── .gitignore
 └── README.md
