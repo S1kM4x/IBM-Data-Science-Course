@@ -27,34 +27,44 @@ This repository contains all my projects, notebooks, and assignments completed d
 IBM-Data-Science-Course/
 │
 ├── 01-What-is-Data-Science/
-│   └── Course introduction and fundamentals
 │
 ├── 02-Tools-for-Data-Science/
-│   └── Jupyter, RStudio, GitHub setup and practice
+│   ├── 01-module-1/
+│   ├── 02-module-3/
+│   ├── 03-module-4/
+│   ├── 04-module-5/
+│   └── 05-module-6/
 │
 ├── 03-Data-Science-Methodology/
-│   └── CRISP-DM methodology and case studies
+│   ├── 01-module-1/
+│   ├── 02-module-2/
+│   ├── 03-module-3/
+│   └── 04-module-4/
 │
 ├── 04-Python-for-Data-Science-AI-&-Development/
-│   └── Python basics, data structures, and APIs
+│   ├── 01-module-1/
+│   ├── 02-module-2/
+│   ├── 03-module-3/
+│   ├── 04-module-4/
+│   └── 05-module-5/
 │
 ├── 05-Python-Project-for-Data-Science/
-│   └── Hands-on Python project with real data
+│   └── 01-module-1/
 │
 ├── 06-Databases-and-SQL-for-Data-Science-with-Python/
-│   └── SQL queries, joins, and Python integration
+│   ├── 01-module-1/
+│   ├── 02-module-2/
+│   ├── 03-module-3/
+│   ├── 04-module-4/
+│   └── 05-module-5/
 │
 ├── 07-Data-Analysis-with-Python/
-│   └── EDA, statistics, and data wrangling projects
-│
-├── 08-Data-Visualization-with-Python/
-│   └── Matplotlib, Seaborn, Plotly, and Folium visualizations
-│
-├── 09-Machine-Learning-with-Python/
-│   └── Classification, regression, clustering, and recommender systems
-│
-├── 10-Applied-Data-Science-Capstone/
-│   └── SpaceX launch prediction and full data science pipeline
+│   ├── 01-module-1/
+│   ├── 02-module-2/
+│   ├── 03-module-3/
+│   ├── 04-module-4/
+│   ├── 05-module-5/
+│   └── 06-module-6/
 │
 ├── .gitignore
 └── README.md
