@@ -17,8 +17,8 @@ This repository contains all my projects, notebooks, and assignments completed d
 | Python Project for Data Science | ✅ Completed | YMX9YCR1G2CW |
 | Databases and SQL for Data Science with Python | ✅ Completed | Y698F7U6TOCG |
 | Data Analysis with Python | ✅ Completed | XDTQ594GQ505 |
-| Data Visualization with Python | 🔄 In Progress | - |
-| Machine Learning with Python | ⏳ Pending | - |
+| Data Visualization with Python | ✅ Completed | 5UZXR39V2NV3 |
+| Machine Learning with Python | 🔄 In Progress | - |
 | Applied Data Science Capstone | ⏳ Pending | - |
 
 ## 📁 Repository Structure
