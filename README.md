@@ -4,7 +4,7 @@
 
 This repository contains all my projects, notebooks, and assignments completed during the **IBM Data Science Professional Certificate** on Coursera. 
 
-**Progress**: 7/10 courses completed ✅
+**Progress**: 8/10 courses completed ✅
 
 ## 🏆 Certifications Earned
 
