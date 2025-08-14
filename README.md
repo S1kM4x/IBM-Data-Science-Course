@@ -4,7 +4,7 @@
 
 This repository contains all my projects, notebooks, and assignments completed during the **IBM Data Science Professional Certificate** on Coursera. 
 
-**Progress**: 8/10 courses completed ✅
+**Progress**:9/10 courses completed ✅
 
 ## 🏆 Certifications Earned
 
@@ -18,8 +18,8 @@ This repository contains all my projects, notebooks, and assignments completed d
 | Databases and SQL for Data Science with Python | ✅ Completed | Y698F7U6TOCG |
 | Data Analysis with Python | ✅ Completed | XDTQ594GQ505 |
 | Data Visualization with Python | ✅ Completed | 5UZXR39V2NV3 |
-| Machine Learning with Python | 🔄 In Progress | - |
-| Applied Data Science Capstone | ⏳ Pending | - |
+| Machine Learning with Python | ✅ Completed | E1UAXW201V1E |
+| Applied Data Science Capstone | 🔄 In Progress | - |
 
 ## 📁 Repository Structure
 
@@ -86,15 +86,11 @@ IBM-Data-Science-Course/
 │
 ├── 10-Applied-Data-Science-Capstone/
 │   ├── 01-module-1/  # Data Collection API
-│   ├── 02-module-2/  # Data Collection with Web Scraping
-│   ├── 03-module-3/  # Data Wrangling
-│   ├── 04-module-4/  # Exploratory Data Analysis with SQL
-│   ├── 05-module-5/  # Exploratory Data Analysis with Visualization
-│   ├── 06-module-6/  # Interactive Visual Analytics with Folium
-│   ├── 07-module-7/  # Interactive Dashboard with Plotly Dash
-│   ├── 08-module-8/  # Machine Learning Prediction
-│   └── 09-module-9/  # Final Presentation
-│
+│   ├── 02-module-2/  # Exploratory Data Analysis (EDA)
+│   ├── 03-module-3/  # Interactive Visual Analytics and Dashboard
+│   ├── 04-module-4/  # Predictive Analysis (Classification)
+│   └── 05-module-5/  # Final Presentation
+│ 
 ├── .gitignore
 └── README.md
 ```
