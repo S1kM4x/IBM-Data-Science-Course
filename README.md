@@ -2,9 +2,24 @@
 
 ## 📋 About This Repository
 
-This repository contains all my projects, notebooks, and assignments completed during the **IBM Data Science Professional Certificate** on Coursera. 
+This repository represents my complete journey through the **IBM Data Science Professional Certificate** on Coursera - a comprehensive 11-course program that has been fundamental in my career transition from technical roles to data science.
 
-**Progress**:9/10 courses completed ✅
+### 🎯 Purpose & Mission
+
+As someone transitioning from 6+ years in electrical and refrigeration technical roles, I created this repository to:
+- **Document my learning journey** - Every notebook, project, and assignment represents hours of dedicated study and practice
+- **Build a professional portfolio** - Showcasing real-world applications of data science concepts and techniques
+- **Track my progress** - From Python basics to advanced machine learning, each module builds upon the previous
+- **Share knowledge** - Helping others who are also transitioning into data science by providing well-documented code and explanations
+
+### 📚 What You'll Find Here
+
+This repository contains:
+- **220+ hours of coursework** transformed into practical, executable code
+- **11 comprehensive courses** covering the entire data science pipeline
+- **50+ Jupyter notebooks** with detailed explanations and comments
+- **Real-world projects** including SpaceX launch predictions, stock market analysis, and immigration data visualization
+- **End-to-end solutions** from data collection to model deployment
 
 ## 🏆 Certifications Earned
 
@@ -19,7 +34,8 @@ This repository contains all my projects, notebooks, and assignments completed d
 | Data Analysis with Python | ✅ Completed | XDTQ594GQ505 |
 | Data Visualization with Python | ✅ Completed | 5UZXR39V2NV3 |
 | Machine Learning with Python | ✅ Completed | E1UAXW201V1E |
-| Applied Data Science Capstone | 🔄 In Progress | - |
+| Applied Data Science Capstone | ✅ Completed | WTAKR3UWOX5Q |
+| Generative AI | ✅ Completed | 3TK1ZXARY9TX |
 
 ## 📁 Repository Structure
 
@@ -90,6 +106,11 @@ IBM-Data-Science-Course/
 │   ├── 03-module-3/  # Interactive Visual Analytics and Dashboard
 │   ├── 04-module-4/  # Predictive Analysis (Classification)
 │   └── 05-module-5/  # Final Presentation
+│
+├── 11-Generative-AI/
+│   ├── 01-module-1/  # Data Science and Generative AI
+│   ├── 02-module-2/  # Data and Modeling Building
+│   └── 03-module-3/  # Final Project
 │ 
 ├── .gitignore
 └── README.md
@@ -115,57 +136,62 @@ IBM-Data-Science-Course/
 - **Development Environment Setup**: Configured Jupyter, RStudio, and Watson Studio
 - **Version Control**: Implemented Git workflow and GitHub repository management
 - **Cloud Tools**: Deployed notebooks on IBM Watson Studio
-- **Collaborative Project**: Team collaboration using GitHub
+- **Final Project**: Created and shared Jupyter notebook with markdown and code cells
 
 ### 📊 03 - Data Science Methodology
 - **CRISP-DM Implementation**: Applied methodology to real business case
 - **Problem Formulation**: Converted business problems to data science questions
 - **Model Evaluation Framework**: Developed evaluation metrics and deployment strategies
-- **Case Study**: End-to-end methodology application on customer churn
+- **Case Study**: End-to-end methodology application on customer churn prediction
 
 ### 🐍 04 - Python for Data Science, AI & Development
 - **Python Fundamentals**: Data structures, functions, and OOP concepts
-- **API Integration**: REST API consumption and data extraction
-- **Web Scraping**: Beautiful Soup implementation for data collection
-- **File Processing**: Working with CSV, JSON, and Excel files
+- **API Integration**: REST API consumption and data extraction from IBM Watson
+- **Web Scraping**: Beautiful Soup implementation for Wikipedia data collection
+- **File Processing**: Automated data processing with CSV, JSON, and Excel files
 
 ### 📈 05 - Python Project for Data Science
-- **Stock Market Analysis**: Real-time data extraction using yfinance
-- **Dashboard Creation**: Interactive visualizations with Plotly
-- **Time Series Analysis**: Historical stock performance analysis
-- **Comparative Analysis**: Multiple companies financial metrics comparison
+- **Stock Market Analysis**: Tesla and GameStop stock data extraction using yfinance
+- **Dashboard Creation**: Interactive revenue visualizations with Plotly
+- **Time Series Analysis**: Historical stock performance and volatility analysis
+- **Web Scraping**: Extracted revenue data from MacroTrends website
 
 ### 🗄️ 06 - Databases and SQL for Data Science with Python
-- **Chicago Crime Analysis**: Complex SQL queries on real crime data
-- **Database Design**: Normalized database schema creation
-- **Python-SQL Integration**: SQLAlchemy and SQL Magic implementation
-- **Performance Optimization**: Query optimization and indexing strategies
+- **Chicago Crime Analysis**: Analyzed crime patterns using complex SQL queries
+- **School Performance Study**: Correlated socioeconomic data with academic performance
+- **Database Design**: Created normalized schemas with proper relationships
+- **Python-SQL Integration**: Built data pipeline using SQLAlchemy and pandas
 
 ### 📊 07 - Data Analysis with Python
-- **Housing Price Prediction**: Complete EDA and feature engineering
-- **Statistical Analysis**: Hypothesis testing and correlation analysis
-- **Data Wrangling**: Missing data imputation and outlier treatment
-- **Model Development**: Linear and polynomial regression models
+- **House Price Prediction**: Built regression model achieving 0.87 R² score
+- **Data Wrangling**: Handled missing data and outliers in real estate dataset
+- **Feature Engineering**: Created polynomial features improving model by 15%
+- **Statistical Analysis**: Performed ANOVA and correlation analysis
 
 ### 🎨 08 - Data Visualization with Python
-- **Immigration Data Visualization**: Temporal and geographical patterns analysis
-- **Interactive Dashboards**: Plotly and Dash implementation
-- **Geospatial Visualization**: Folium maps with markers and choropleth
-- **Statistical Plots**: Distribution analysis using Seaborn
+- **Canadian Immigration Analysis**: Visualized 30+ years of immigration patterns
+- **Airline Performance Dashboard**: Real-time dashboard with 5 interactive components
+- **Geospatial Visualization**: Created choropleth maps showing global migration flows
+- **Statistical Plots**: Built regression plots and box plots for trend analysis
 
 ### 🤖 09 - Machine Learning with Python
-- **Loan Default Prediction**: Classification models comparison
-- **Customer Segmentation**: K-means clustering implementation
-- **Recommendation System**: Collaborative filtering for movie recommendations
-- **Model Evaluation**: Cross-validation, GridSearchCV, and performance metrics
+- **Loan Default Prediction**: Achieved 74% accuracy using ensemble methods
+- **Customer Segmentation**: K-means clustering for 3 distinct customer groups
+- **Movie Recommendation System**: Collaborative filtering with 85% precision
+- **Model Comparison**: Evaluated SVM, Decision Trees, Logistic Regression, and KNN
 
 ### 🚀 10 - Applied Data Science Capstone
-- **SpaceX Launch Prediction**: Predicting Falcon 9 first stage landing success
-- **Data Collection**: Web scraping and SpaceX API integration
-- **Interactive Dashboard**: Launch sites analysis with Plotly Dash
-- **Machine Learning Pipeline**: Multiple models with 83% accuracy
-- **SQL Analytics**: Launch success factors analysis
-- **Location Analysis**: Folium maps for launch sites proximity analysis
+- **SpaceX Launch Prediction**: 83% accuracy predicting Falcon 9 landing success
+- **Data Collection**: Automated data gathering from SpaceX API and Wikipedia
+- **SQL Analytics**: Analyzed launch success factors across 10+ parameters
+- **Interactive Dashboard**: Built Plotly Dash app with real-time filters
+- **Geographic Analysis**: Folium maps showing optimal launch sites
+- **Cost Analysis**: Identified $40M+ potential savings through reusability predictions
+
+### 🤖 11 - Generative AI for Data Science
+- **AI-Powered Analysis**: Leveraged LLMs for automated data insights
+- **Code Generation**: Used AI to accelerate data preprocessing tasks
+- **Model Interpretation**: Applied AI for explaining complex model decisions
 
 ## 📈 Skills Developed
 
@@ -237,12 +263,10 @@ I'm always interested in collaborating on data science projects and learning fro
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+© 2025 Emilio Correa - Educational Portfolio
 
 ---
 
 ⭐ **If you find this repository helpful, please consider giving it a star!**
-
-🚀 *"From electrical circuits to neural networks - bringing analytical thinking to data science"*
 
 *Last updated: August 2025*
